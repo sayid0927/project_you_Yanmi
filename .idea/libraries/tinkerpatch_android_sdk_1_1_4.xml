@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="tinkerpatch-android-sdk-1.1.4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/YouAnMiUserApp/build/intermediates/exploded-aar/com.tinkerpatch.sdk/tinkerpatch-android-sdk/1.1.4/res" />
+      <root url="jar://$PROJECT_DIR$/YouAnMiUserApp/build/intermediates/exploded-aar/com.tinkerpatch.sdk/tinkerpatch-android-sdk/1.1.4/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YouAnMiUserApp/build/intermediates/exploded-aar/com.tinkerpatch.sdk/tinkerpatch-android-sdk/1.1.4/jars/libs/aosp-dexutils-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YouAnMiUserApp/build/intermediates/exploded-aar/com.tinkerpatch.sdk/tinkerpatch-android-sdk/1.1.4/jars/libs/bsdiff-util-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YouAnMiUserApp/build/intermediates/exploded-aar/com.tinkerpatch.sdk/tinkerpatch-android-sdk/1.1.4/jars/libs/tinker-commons-1.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tinkerpatch.sdk/tinkerpatch-android-sdk/1.1.4/dd5aeeb94069ddafb668e43eb59e28e80a2c65f5/tinkerpatch-android-sdk-1.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
